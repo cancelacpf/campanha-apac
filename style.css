@@ -6,7 +6,7 @@
     /* Cores da Paleta */
     --cor-primaria: #008000;      /* Verde Esperança (Principal) */
     --cor-secundaria: #FF4500;    /* Laranja/Vermelho (Destaque/Ação) */
-    --cor-fundo: #000000;         /* Fundo Claro Suave */
+    --cor-fundo: #c9c9c9;         /* Fundo Claro Suave */
     --cor-texto: #333333;         /* Preto Suave */
     --cor-branco: #ffffff;
     --cor-sombra: rgba(0, 0, 0, 0.1);
