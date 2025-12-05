@@ -200,12 +200,13 @@ p {
 #hero h2 {
     font-size: 3.5em;
     margin-bottom: 15px;
-    color: var(--cor-titulo); /* Título em branco para contraste */
+    color: var(--cor-titulo); /* Título em preto para contraste */
 }
 
 #hero p {
     font-size: 1.5em;
     margin-bottom: 30px;
+    color: var(--cor-titulo); /* Título em preto para contraste */
 }
 
 
