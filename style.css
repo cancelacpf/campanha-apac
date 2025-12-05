@@ -8,7 +8,7 @@
     --cor-secundaria: #FF4500;    /* Laranja/Vermelho (Destaque/Ação) */
     --cor-fundo: #e9e9e9;         /* Fundo Claro Suave */
     --cor-texto: #333333;         /* Preto Suave */
-    --cor-branco: #ffffff;
+    --cor-branco: #000000;
     --cor-sombra: rgba(0, 0, 0, 0.1);
 }
 
