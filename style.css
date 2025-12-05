@@ -8,7 +8,8 @@
     --cor-secundaria: #FF4500;    /* Laranja/Vermelho (Destaque/Ação) */
     --cor-fundo: #e9e9e9;         /* Fundo Claro Suave */
     --cor-texto: #333333;         /* Preto Suave */
-    --cor-branco: #000000;
+    --cor-branco: #ffffff;
+    --cor-titulo: #000000;
     --cor-sombra: rgba(0, 0, 0, 0.1);
 }
 
@@ -199,7 +200,7 @@ p {
 #hero h2 {
     font-size: 3.5em;
     margin-bottom: 15px;
-    color: var(--cor-branco); /* Título em branco para contraste */
+    color: var(--cor-titulo); /* Título em branco para contraste */
 }
 
 #hero p {
